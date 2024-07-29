@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhadhh21" alt="anhadhh21" /></a> </p>
 
-- 🌱 I’m currently learning **React.js,MongoDB,Python**
+- 🌱 I’m currently learning **React.js,NEXT.js,MongoDB,Python**
 
 - 📫 How to reach me **anhadhmeshri21@gmail.com**
 
